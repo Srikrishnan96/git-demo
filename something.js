@@ -5,3 +5,11 @@ function Hello() {
 function something() {
     console.log('soemthing');
 }
+
+function zello() {
+    console.log('zello')
+}
+
+function drip () {
+    console.log('drip')
+}
